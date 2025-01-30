@@ -3,7 +3,7 @@ langchain_community
 
 #for the jupyter nootbook
 ipykernel
-python_dotenv
+python-dotenv
 
 #for pdf loading
 pypdf
